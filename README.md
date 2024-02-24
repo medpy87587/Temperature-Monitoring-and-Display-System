@@ -1,5 +1,7 @@
 # Temperature-Monitoring-and-Display-System
 The "Temperature Monitoring and Display System" is a comprehensive solution that combines both hardware and software components to provide real-time temperature monitoring and display 
+![image](https://github.com/medpy87587/Temperature-Monitoring-and-Display-System/assets/112163057/4a226c2d-ec68-439e-a0e8-0df3bd04bee7)
+
 * Hardware:
 
 Temperature Sensors: One or more temperature sensors (e.g., DS18B20) are connected to a microcontroller (e.g., Arduino or ESP32) to measure temperature at different locations.
